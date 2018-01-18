@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String str="第二次提交";
         String SSt="dddd";
+        String SSr="ddddwew";
 
 
     }
