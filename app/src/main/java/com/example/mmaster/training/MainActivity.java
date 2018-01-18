@@ -12,6 +12,10 @@ public class MainActivity extends AppCompatActivity {
         String str="第二次提交";
         String SSt="dddd";
         String SSr="ddddwew";
+        String SSri="冲突1";
+
+
+
 
 
     }
